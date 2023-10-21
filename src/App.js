@@ -134,7 +134,7 @@ function App() {
             Email Generator - Chat GPT{" "}
           </Heading>
 
-          <Box mt="5" maxH="50vh" overflowY="auto">
+          <Box mt="5" maxH="*50vh" pr="5" pb="10" overflowY="auto">
             <FormControl>
               <FormLabel fontSize="sm">Your Name</FormLabel>
               <Input
